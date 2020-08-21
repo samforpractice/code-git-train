@@ -1,0 +1,2 @@
+this is untracked file
+there will be no effect of git commit -a -m "this is commit"

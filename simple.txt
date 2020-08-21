@@ -1,0 +1,2 @@
+for commit to staged file which is actually untracked
+git commit -a -m "what_ever_in_commit"

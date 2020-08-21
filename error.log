@@ -1,0 +1,10 @@
+this is sam working for git
+added to .gitignore
+updated
+again updated
+git deff --staged
+again updated by me
+for commit a staged file 
+git commit -a -m "this commit untracked file"
+git remote add origin "https://github.com/samforpractice/devops-practice-for-sam.git"
+#this is for adding git reposotory

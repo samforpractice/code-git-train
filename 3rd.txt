@@ -1,0 +1,4 @@
+this is file
+using git diff command
+this command is for comparing remote with staging directory
+using git commit -a -m "for commiting all tracked file without saving them"
